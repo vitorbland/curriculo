@@ -1,0 +1,96 @@
+body
+{
+    background-color: gray;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: solid;
+    border-width: 10px;
+    margin: 0%;
+
+}
+img{
+    width: 150px;
+}
+.nome
+{
+    font-family: Lucida Handwriting;
+    color: rgb(255, 255, 255);
+    background-color: black;
+    text-align: center;
+    font-size: xx-large;
+    margin: 0% 0% 0% -20%;
+    padding: 5% 0% 5% 8%;
+}
+.headernome
+{
+    margin: 0% 0% 2.5% 7%;
+}
+section
+{
+    margin-top: 0%;
+    margin-right: 9.7%;
+    margin-bottom: 5%;
+    margin-left: 10.3%;
+}
+.listmenu
+{
+    list-style-position: center;
+    list-style: none;
+    color:black;
+    display: inline;
+    padding: 1% 2.7% 2% 4%;
+    border: solid;
+    background-color: darkgrey;
+    font-size: large; 
+}
+.linkmenu
+{
+    text-decoration: none;
+}
+.listmenu:hover
+{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border-color: red;
+}
+.apost
+{
+    font-size: larger;
+    background-color: rgb(118, 115, 122);
+    margin-right: 50%;
+    padding-left: 2%;
+    
+    border: solid;
+
+}
+.apost:hover
+{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border-color: red;
+}
+
+#formacao
+{
+    background-color: darkgrey;
+    border: solid;
+}
+#experiencia
+{
+    background-color:darkgrey;
+    border: solid;
+}
+#habilidade
+{
+    background-color:darkgrey;
+    border: solid;
+}
+#hobbie
+{
+    background-color: darkgrey;
+    border: solid;
+}
+#contatos
+{
+    background-color:darkgrey;
+    border: solid;
+}
