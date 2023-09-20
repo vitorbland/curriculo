@@ -54,6 +54,7 @@ section
 }
 .apost
 {
+    text-decoration: none;
     font-size: larger;
     background-color: rgb(118, 115, 122);
     margin-right: 50%;
@@ -64,6 +65,7 @@ section
 }
 .apost:hover
 {
+    text-decoration: none;
     background-color: rgb(0, 0, 0);
     color: white;
     border-color: red;
