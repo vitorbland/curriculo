@@ -52,8 +52,14 @@ section
     color: white;
     border-color: red;
 }
+.linkapost
+{
+    text-decoration: none;
+}
 .apost
 {
+    color: black;
+    border-color: black;
     font-size: larger;
     background-color: rgb(118, 115, 122);
     margin-right: 50%;
